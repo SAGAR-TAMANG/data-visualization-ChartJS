@@ -1,2 +1,2 @@
 # data-visualization
- Testing different data visualization techniques
+ Testing different data visualization techniques using ChartJS.
